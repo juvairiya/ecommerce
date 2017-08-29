@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <color name="Primary">#FF5722</color>
+        <color name="PrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#727272</color>
+    <color name="white">#fff</color>
+    <color name="background">#dae2e2e2</color>
+    <color name="list_group_title">#808080</color>
+    <color name="list_item_title">#AAAAAA</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="group_divider_color">#80CBC4</color>
+</resources>

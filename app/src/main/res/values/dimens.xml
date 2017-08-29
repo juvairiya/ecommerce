@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">20dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+    <dimen name="layout_margin_default">10dp</dimen>
+    <dimen name="layout_padding_default">10dp</dimen>
+    <dimen name="header_img_size">70dp</dimen>
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="text_size_1">35sp</dimen>
+    <dimen name="nav_drawer_width">280dp</dimen>
+    <dimen name="text_size_2">20sp</dimen>
+    <dimen name="header_font_size">14sp</dimen>
+    <dimen name="movie_icon_container_height">300dp</dimen>
+</resources>
